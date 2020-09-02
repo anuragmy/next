@@ -5,7 +5,7 @@ export default class MyDocument extends Document {
     return (
       <html lang="en">
         <Head>
-          <meta content="my portfolio site" charset="utf-8" />
+          <meta content="my portfolio site" charSet="utf-8" />
           <meta name="viewport" content="width:device-width" />
           <link
             rel="stylesheet"
